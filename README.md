@@ -94,7 +94,7 @@ Access the dashboard at `http://<EKS-LoadBalancer-IP>:3000`
 ## 👤 Author
 
 **Anthony Okeke**  
-📍 Abuja, Nigeria | 🌍 Remote & Relocation Ready  
+📍 Software Engineer & DevOps Consultant | 🌍 Remote & Relocation Ready  
 📧 cyberokeke@gmail.com  
 🔗 [GitHub](https://github.com/anthonyokeke1)
 
