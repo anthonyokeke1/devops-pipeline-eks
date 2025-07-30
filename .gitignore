@@ -1,0 +1,4 @@
+*.log
+*.tfstate
+node_modules/
+.env
